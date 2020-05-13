@@ -1,0 +1,6 @@
+C:\Users\kaviya\source\repos\ReverseArrayExercise\ReverseArrayExercise\bin\Debug\ReverseArrayExercise.exe.config
+C:\Users\kaviya\source\repos\ReverseArrayExercise\ReverseArrayExercise\bin\Debug\ReverseArrayExercise.exe
+C:\Users\kaviya\source\repos\ReverseArrayExercise\ReverseArrayExercise\bin\Debug\ReverseArrayExercise.pdb
+C:\Users\kaviya\source\repos\ReverseArrayExercise\ReverseArrayExercise\obj\Debug\ReverseArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\ReverseArrayExercise\ReverseArrayExercise\obj\Debug\ReverseArrayExercise.exe
+C:\Users\kaviya\source\repos\ReverseArrayExercise\ReverseArrayExercise\obj\Debug\ReverseArrayExercise.pdb
